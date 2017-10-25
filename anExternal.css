@@ -1,0 +1,14 @@
+div {
+    border: solid 8px green;
+    border-radius: 25px;
+    clear: left;
+    overflow: auto;
+}
+
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+    height: 100px;
+    width: 300px;
+}
+
